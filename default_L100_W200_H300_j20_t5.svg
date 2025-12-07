@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="445mm" height="545mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 445 545"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:0.2}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+</defs>
+<g id="图层_x0020_1">
+<metadata id = "CorelCorpID_0Corel-Layer"/>
+ <polygon id="top.svg" class="fil0 str0" points="5,5 25,5 25,10 95,10 95,5 115,5 115,25 110,25 110,195 115,195 115,215 95,215 95,210 25,210 25,215 5,215 5,195 10,195 10,25 5,25 5,5 "/>
+<polygon id="top.svg" class="fil0 str0" points="126,25 126,10 266,10 266,5 286,5 286,10 426,10 426,25 431,25 431,195 426,195 426,210 286,210 286,215 266,215 266,210 126,210 126,195 121,195 121,25 126,25 "/>
+<polygon id="top.svg" class="fil0 str0" points="5,226 25,226 25,221 95,221 95,226 115,226 115,366 110,366 110,386 115,386 115,526 95,526 95,531 25,531 25,526 5,526 5,386 10,386 10,366 5,366 5,226 "/>
+ </g>
+</svg>
